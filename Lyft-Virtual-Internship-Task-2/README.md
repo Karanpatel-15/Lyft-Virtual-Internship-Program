@@ -1,1 +1,1 @@
-# Task 2 model answer
+# Lyft Virtual Internship Task 2 (Refactoring)
